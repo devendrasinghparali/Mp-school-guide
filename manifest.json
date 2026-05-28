@@ -1,0 +1,22 @@
+{
+  "name": "MP SCHOOL GUIDE",
+  "short_name": "MPSG",
+  "start_url": "https://schoolguidemp.blogspot.com/p/home-page.html?m=1",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/devendrasinghparali/pwa/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/devendrasinghparali/pwa/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
+
