@@ -1,7 +1,7 @@
 {
   "name": "MP SCHOOL GUIDE",
   "short_name": "MPSG",
-  "start_url": "https://www.mpschoolguide.in/p/home-page.html",
+  "start_url": "https://www.mpschoolguide.in",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
